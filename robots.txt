@@ -1,0 +1,4 @@
+User-agent : *
+Disallow : /
+Allow : /
+Sitemap :https://cyril-dufour.github.io/p4-corrige-/
